@@ -217,7 +217,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 	<!-- //about --> 
 	<!-- services -->
-	<div class="about services" id="services"> 
+	<!--div class="about services" id="services"> 
 		<div class="container"> 
 			<div class="agileits-title"> 
 				<div class="col-md-6 agileits-title-left">
@@ -272,30 +272,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 	<!-- //services --> 
 	<!-- features -->
-	<div class="features">  
+	<div class="features" id="services">  
 		<div class="tabs w3-agileits-tabs"> 
-			<!-- Nav tabs -->
-			<ul class="nav nav-tabs" role="tablist">
-				<li class="active"><a href="#home" aria-controls="home" data-toggle="tab"><span>Business</span></a></li>
-				<li><a href="#profile" aria-controls="profile" data-toggle="tab"><span>Creative</span></a></li>
-				<li><a href="#messages" aria-controls="messages" data-toggle="tab"><span>Support</span></a></li>
-				<li><a href="#settings" aria-controls="settings" data-toggle="tab"><span>Marketing</span></a></li>
-			</ul>
-			<!-- Tab panes --> 
+		
 			<div class="tab-content">
-				<div role="tabpanel" class="tab-pane active" id="home"> 
-					<div class="col-md-6 features-right">
-						<div class="agileits-title"> 
-							<h6>- Our Features</h6>
-							<h3> Mauris commodo </h3>
+					<div class="row">
+						<div class="col-md-6">
+						<img src="<?php echo base_url();?>assets/images/question.jpg" width="100%" height="100%">
 						</div>
-						<p>Fusce eget erat nunc. Sed fringilla sem vitae mi interdum commodo. Aliquam neque odio, viverra eget nisl id, vulputate malesuada lorem. Praesent quis ullamcorper lorem vulputate malesuada lorem.  </p>
+						<div class="col-md-6 features-right" style="padding-top: 10px; padding-left: 20px;">
+							<div class="agileits-title"> 
+								<h3> তোমার জিজ্ঞাসা  </h3>
+							</div>
+							<p>বাচতে হলে জানতে হবে </p>
+						</div>
+						
 					</div>
-					<div class="col-md-6 features-left agileinfo-img">
+					
+					<!--div class="col-md-6 features-left agileinfo-img">
 					
 					</div>
-					<div class="clearfix"> </div>
-				</div>
+					<div class="clearfix"> </div-->
 				
 			</div> 
 		</div><!-- /tabs -->  
