@@ -196,8 +196,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container"> 
 			<div class="agileits-title"> 
 				<div class="col-md-6 agileits-title-left">
-					<h6>- Welcome to</h6>
-					<h3>জানো ও জানাও</h3>
+					<h6></h6>
+					<h3>
+					<a href="<?php echo base_url()?>janojanao">জানো ও জানাও</a></h3>
 				</div>
 				<div class="col-md-6 agileits-title-right">
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at placerat ante. Praesent nulla nunc, pretium dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet</p>
@@ -207,8 +208,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="about-w3lsrow"> 
 				<div class="col-md-7 col-sm-7 w3about-img"> 
 					<div class="w3about-text"> 
-						<h5 class="w3l-subtitle">- About Us</h5>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at placerat ante. Praesent nulla nunc, pretium dapibus efficitur in, auctor eget elit. Lorem ipsum dolor sit amet</p>
+						<h5 class="w3l-subtitle"></h5>
+						<p>যৌনতা ও যৌনাঙ্গ সম্পর্কে যে কত ভুল ধারণা ছড়িয়ে আছে তার কোন ইয়ত্তা নেই। এসবের প্রধান কারণ মানব শরীরের গঠন ও যৌনতা সম্পর্কে সম্পূর্ণ অজ্ঞতা। যৌনশিক্ষা যে গণিত, বিজ্ঞান বা ইতিহাসের মতই অপরিহার্য বিষয় সেটা সম্পূর্ণ আজগুবি কারণে আমাদের সমাজ স্বীকার করেনা। যাইহোক এই পোস্টে আমরা যৌনতা সম্পর্কে কয়েকটি ভুল ধারণা নিয়ে আলোচনা করব।</p>
 					</div>
 				</div> 
 				<div class="clearfix"> </div>

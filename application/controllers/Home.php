@@ -19,10 +19,10 @@ class Home extends CI_Controller {
 
 	public function index3()
 	{
-		$this->load->view('dashboard_header');
-		$this->load->view('dashboard_topmenu');
-		$this->load->view('dashboard_menu');
-		$this->load->view('dashboard_body');
-		$this->load->view('dashboard_footer');
+		//$this->load->view('header');
+		//$this->load->view('menu');
+		$this->load->view('star');
+		//$this->load->view('footer');
 	}
+
 }
